@@ -1,0 +1,37 @@
+.main{
+	display: flex;
+	flex-wrap: wrap;
+	}
+.photo{
+	width: 100px;
+	border: 1px solid #000;
+	border-radius: 70%;
+}
+.child
+  {
+	width: 20%;
+	border: 1px solid #060711;
+	padding: 2%;
+	//margin: 1%;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 0px 8px 8px -8px #000;
+	}
+.child2{
+	width: 75%;
+	border: 1px solid #060711;
+	padding:  2%;
+	border-radius: 5%;
+	text-align: center; 
+}
+.right{
+	width: 75%;
+}
+.heading{
+	background-color: #808000;
+	text-align: center;
+
+}
+.imagewidth{
+	width: 40px;
+}
